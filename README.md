@@ -1,1 +1,1 @@
-The following scripts were used to produce the bioinformatic analyses in the scientific report found at: https://doi.org/10.1186/s13046-025-03319-5 
+The following scripts were used to produce the bioinformatic analyses in the scientific report "An IgE antibody targeting HER2 identified by clonal selection restricts breast cancer growth via immune-stimulating activities", J Exp Clin Cancer Res. 2025 Feb 12. The report can be found at: https://doi.org/10.1186/s13046-025-03319-5 
